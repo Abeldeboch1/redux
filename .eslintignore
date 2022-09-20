@@ -1,4 +1,4 @@
-public/**
-node_modules/**
-coverage/**
-src/registerServiceWorker.js
+# public/**
+# node_modules/**
+# coverage/**
+# src/registerServiceWorker.js
